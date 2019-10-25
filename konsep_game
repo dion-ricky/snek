@@ -1,0 +1,13 @@
+Mode 1:
+PvP
+server ngirim ke client, client ngirim ke server
+satu window 2 ular rebutan makanan sama ada item tertentu:
+- Apel -> panjang + 1
+- Golden Apple -> panjang + 1/2 * panjang ular
+- Poison -> Reverse direction L->R U->D vice versa
+# Land mines -> muncul di kita tapi di musuh nggak muncul, kalau kena -2
+- Freeze -> freeze lawan
+- speed * 2
+
+aturan ingame ular -> ular masih berlaku jadi kalau head nabrak badan siapapun akan mati
+
